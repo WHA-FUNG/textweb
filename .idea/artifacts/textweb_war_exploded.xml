@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="textweb:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/textweb_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="textweb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="textweb" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
