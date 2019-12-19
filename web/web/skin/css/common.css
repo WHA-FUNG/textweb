@@ -1,0 +1,15 @@
+*{margin:0;padding:0}
+body{font-size:14px;font-style:normal;color:#333;font-family:Microsoft YaHei;overflow-x:hidden}
+a{text-decoration:none}
+a{color:inherit}
+em,i{font-style:normal}
+ul,ol,li{list-style:none}
+img{border:none;vertical-align:middle}
+input,select,textarea{outline:none;position:relative}
+textarea{resize:none}
+p{line-height:22px}
+.fl{float:left}
+.fr{float:right}
+.clear{clear:both;height:0 !important;width:100% !important;overflow:hidden;border:none !important}
+.position{position:relative}
+button,input[type="button"],input[type="submit"]{border:0}

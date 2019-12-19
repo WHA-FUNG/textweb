@@ -1,0 +1,1340 @@
+﻿/*
+Theme Name: Materitix
+Author: KopaSoft
+Author URI: http://kopatheme.com/
+Version: 1.0
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+@media screen and (max-width: 1120px) {
+.container {
+	width: 980px;
+}
+#top-nav #top-menu li a {
+	padding: 5px 10px;
+}
+#main-menu > li {
+	margin-left: 40px;
+}
+.home-slider-1 .owl-carousel-1 .item .entry-item .entry-content h2 {
+	font-size: 54px;
+	line-height: 60px;
+}
+.kopa-countdown-2 li div h3 {
+	font-size: 44px;
+}
+.kopa-nothumb-widget .widget-content .entry-item .entry-content .entry-title {
+	font-size: 16px;
+	line-height: 22px;
+}
+.kopa-masonry-list-1-widget .masonry-container .container-masonry .item.twitter-item i {
+	margin-bottom: 15px;
+}
+.kopa-area-11 .widget_text h4 {
+	font-size: 22px;
+	line-height: 26px;
+}
+.nav-tabs.kopa-tabs-1 > li a {
+	padding: 10px 20px;
+}
+.home-slider-2 #sync1 .item .entry-item .entry-content .entry-title h2 {
+	font-size: 50px;
+	line-height: 56px;
+}
+.home-slider-2 #sync1 .item .entry-item .entry-content .entry-title {
+	margin-bottom: 20px;
+}
+.home-slider-2 #sync1 .item .entry-item .entry-content .kopa-button {
+	margin-top: 15px;
+}
+.kopa-tagline-3-widget .entry-title h2,  .kopa-tagline-4-widget .entry-title h2 {
+	font-size: 34px;
+	line-height: 40px;
+}
+.kopa-tagline-5-widget .kopa-button {
+	font-size: 13px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.kopa-portfolio-list-1-widget .portfolio-container .portfolio-list-item li.por-item1,  .kopa-masonry-list-3-widget .masonry-list-wrapper > ul > li {
+	width: 33.2%;
+}
+.kopa-event-list-3-widget .row > div .entry-item .entry-thumb {
+	width: 200px;
+}
+.kopa-course-tab-list-3-widget .kopa-course-list-3-wrapper .kopa-course-list-3 .row > div .entry-item .entry-thumb {
+	width: 140px;
+}
+}
+ @media screen and (max-width: 1023px) {
+.container {
+	width: 960px;
+}
+#main-menu > li {
+	margin-left: 35px;
+}
+.kopa-nothumb-widget .widget-content .entry-item .entry-date {
+	margin-right: 20px;
+}
+.kopa-area-11 .widget_text h4 {
+	font-size: 20px;
+}
+#bottom-sidebar .container .row > div .row > div {
+	margin-bottom: 30px;
+}
+.home-slider-2 #sync1 .item .entry-item .entry-content {
+	padding-top: 30px;
+}
+.kopa-nothumb-2-widget .widget-content .entry-item .entry-date {
+	margin-right: 20px;
+}
+.kopa-service-1-widget .widget-content .row > div .entry-item > i {
+	margin-right: 20px !important;
+}
+#bottom-sidebar-s2 > .row > div:first-child:before {
+	content: "";
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	background-color: #191d3d;
+}
+#bottom-sidebar-s2 > .row > div .row > div {
+	margin-bottom: 30px;
+s
+}
+.kopa-blog-list-1-widget .entry-item .entry-content {
+	padding-bottom: 30px;
+}
+.entry-box .entry-box-footer > div .entry-item .entry-content {
+	padding-bottom: 30px;
+}
+.entry-box .entry-box-footer > div .entry-item {
+	min-height: 110px;
+}
+.widget .widget-title.widget-title-s10 {
+	font-size: 16px;
+	line-height: 22px;
+}
+.kopa-event-list-4-widget .entry-item {
+	padding-bottom: 50px;
+}
+.entry-event-box .row > div.right-col .entry-event-box-footer > div .entry-item,  .entry-course-box .row > div.left-col .entry-course-box-footer > div .entry-item {
+	min-height: 110px;
+}
+.entry-event-box .row > div.right-col .entry-event-box-footer > div .entry-item .entry-content,  .entry-course-box .row > div.left-col .entry-course-box-footer > div .entry-item .entry-content {
+	padding-bottom: 20px;
+}
+.kopa-course-tab-list-3-widget .kopa-course-list-3-wrapper .kopa-course-list-3 .row > div .entry-item .entry-thumb {
+	width: 130px;
+}
+.kopa-course-tab-list-3-widget .kopa-course-list-3-wrapper .kopa-course-list-3 .row > div .entry-item .entry-content {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+}
+ @media screen and (max-width: 979px) {
+.container {
+	width: 780px;
+}
+/*#kopa-header-top .container .row > div:last-child {
+    width: 60%;
+    margin-left: 15%;
+  }*/
+#main-menu > li {
+	margin-left: 40px;
+}
+#main-menu > li > a {
+	font-size: 18px;
+	padding: 20px 0;
+}
+#main-menu > li > a .menu-description {
+	display: none;
+}
+#main-menu > li > ul {
+	top: 64px;
+}
+.home-slider-1 .owl-carousel-1 .item .entry-item .entry-content h2 {
+	font-size: 40px;
+	line-height: 46px;
+}
+.home-slider-1 .owl-carousel-1 .item .entry-item .entry-content {
+	padding-top: 8 0px;
+}
+.owl-theme .owl-controls .owl-buttons div {
+	width: 52px;
+	height: 52px;
+	line-height: 50px;
+	font-size: 40px;
+}
+.home-slider-1 {
+	min-height: 350px;
+}
+.widget .widget-title.widget-title-s1 {
+	position: static;
+	padding: 0;
+	margin-bottom: 30px;
+	background-color: transparent;
+}
+.widget .widget-title.widget-title-s1 .widget-title-icon {
+	display: none;
+}
+.kopa-event-widget .widget-content .entry-title {
+	font-size: 28px;
+	line-height: 34px;
+}
+.home-slider-1 .owl-carousel-1 .owl-controls .owl-pagination {
+	bottom: 30px;
+}
+.widget .widget-title.widget-title-s4 {
+	font-size: 30px;
+	line-height: 36px;
+}
+.widget .widget-title.widget-title-s7 h4 {
+	font-size: 20px;
+	line-height: 26px;
+}
+.kopa-masonry-list-1-widget .masonry-container .container-masonry .item.twitter-item {
+	font-size: 14px;
+	line-height: 20px;
+}
+.kopa-masonry-list-1-widget .masonry-container .container-masonry .item.twitter-item i {
+	width: 32px;
+	height: 32px;
+	line-height: 30px;
+}
+.kopa-article-list-4-widget ul li .entry-item .entry-thumb {
+	width: 100%;
+	float: none !important;
+	margin: 0;
+}
+.kopa-article-list-4-widget ul li .entry-item .entry-content {
+	padding: 15px 20px;
+}
+.nav-tabs.kopa-tabs-1 > li a {
+	padding: 10px;
+	font-size: 14px;
+}
+.home-slider-2 #sync1 .item .entry-item .entry-content p.entry-excerpt,  .home-slider-2 #sync1 .item .entry-item .entry-content .entry-title p {
+	display: none;
+}
+.home-slider-2 #sync1 .item .entry-item .entry-content .entry-title h2 {
+	font-size: 40px;
+	line-height: 46px;
+}
+.home-slider-2 #sync1 .item .entry-item .entry-content .kopa-button {
+	padding: 10px 20px;
+	margin-top: 0;
+}
+.home-slider-2 #sync1 .item .entry-item .entry-content {
+	padding-top: 55px;
+}
+.kopa-service-1-widget .widget-content .row > div .entry-item .entry-content {
+	overflow: visible;
+}
+.kopa-service-1-widget .widget-content .row > div .entry-item .entry-content .entry-title {
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+.kopa-masonry-list-2-widget .masonry-list-wrapper > ul > li .entry-item .entry-thumb {
+	margin-bottom: 15px;
+}
+.kopa-masonry-list-2-widget .masonry-list-wrapper > ul > li .entry-item .entry-content {
+	padding: 0 20px 15px;
+}
+.kopa-rounded-thumb-2-widget .widget-content .entry-item .entry-thumb {
+	width: 300px;
+}
+.kopa-tagline-3-widget .entry-title h2, .kopa-tagline-4-widget .entry-title h2 {
+	font-size: 28px;
+	line-height: 34px;
+}
+.kopa-service-2-widget .widget-content .row > div .entry-item {
+	padding: 0;
+}
+.kopa-featured-teacher-widget {
+	padding: 20px;
+}
+.widget .widget-title.widget-title-s7 {
+	margin-bottom: 20px;
+}
+.kopa-featured-teacher-widget .entry-item .entry-content footer h6 {
+	font-size: 14px;
+	line-height: 20px;
+}
+.kopa-ads-1-widget ul li {
+	padding: 0 10px;
+	margin-top: 20px;
+}
+.kopa-ads-1-widget ul {
+	margin: -20px -10px 0;
+}
+.kopa-course-search-2-widget,  .kopa-testimonial-1-widget .testimonial-item {
+	padding: 15px 20px;
+}
+.kopa-article-list-8-widget ul li .entry-item .entry-thumb {
+	float: none !important;
+	margin: 0 0 20px;
+	width: 100%;
+}
+.kopa-blog-list-2-widget .entry-item .entry-thumb {
+	width: 280px;
+}
+.entry-box .entry-box-footer > div .entry-item {
+	min-height: 90px;
+}
+.kopa-article-list-9-widget ul li .entry-item .entry-thumb {
+	width: 110px;
+}
+.kopa-article-list-9-widget ul li .entry-item .entry-content {
+	padding-top: 20px;
+}
+.woocommerce ul.products li.product .product-detail, .woocommerce-page ul.products li.product .product-detail {
+	padding: 10px 20px 20px;
+}
+.woocommerce ul.products li.product .product-detail > a .price, .woocommerce-page ul.products li.product .product-detail > a .price {
+	padding: 5px 10px;
+}
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+	padding: 0 10px;
+}
+.woocommerce ul.products, .woocommerce-page ul.products {
+	margin-right: -10px;
+	margin-left: -10px;
+}
+.woocommerce ul.products li.product .product-thumb .hot-item, .woocommerce-page ul.products li.product .product-thumb .hot-item,  .woocommerce ul.products li.product .product-thumb .onsale, .woocommerce-page ul.products li.product .product-thumb .onsale {
+	left: 20px;
+}
+.kopa-event-list-1-widget .row > div .entry-item .entry-content .entry-date {
+	margin-right: 20px;
+}
+.kopa-event-list-2-widget .entry-item .entry-thumb {
+	width: 250px;
+	margin-right: 20px;
+}
+.kopa-event-list-3-widget .row > div .entry-item .entry-thumb {
+	width: 170px;
+	margin-right: 20px;
+}
+.entry-event-box .row > div.right-col .entry-event-box-footer > div .entry-item,  .entry-course-box .row > div.left-col .entry-course-box-footer > div .entry-item {
+	min-height: 88px;
+}
+.entry-event-box .row > div.right-col .entry-event-box-footer > div .entry-item .entry-content .entry-title {
+	display: none;
+}
+.entry-event-box .row > div.right-col .entry-event-box-footer > div .entry-item .entry-content a.fa {
+	top: -5px;
+}
+.entry-event-box .row > div.right-col .entry-event-box-footer > div .entry-item .entry-content,  .entry-course-box .row > div.left-col .entry-course-box-footer > div .entry-item .entry-content {
+	padding-bottom: 30px;
+}
+#comments .comments-list > li .children {
+	padding-left: 0;
+}
+.kopa-masonry-list-3-widget .masonry-list-wrapper > ul > li .entry-item .entry-content {
+	padding: 15px 20px;
+}
+.kopa-course-tab-list-3-widget .kopa-course-list-3-wrapper .kopa-course-list-3 .row > div .entry-item .entry-thumb {
+	width: 100%;
+	margin: 0;
+}
+.entry-course-box .row > div.left-col > .entry-thumb {
+	width: 100%;
+	margin: 0 0 20px;
+	float: none !important;
+}
+.entry-course-box .row > div.left-col .entry-course-box-footer > div .entry-item .entry-content .entry-title {
+	display: none;
+}
+.entry-course-box .row > div.left-col .entry-course-box-footer > div .entry-item .entry-content a.fa {
+	top: -5px;
+}
+.entry-course-box .row > div.right-col .event-detail > ul > li strong {
+	margin-right: 15px;
+}
+}
+ @media screen and (max-width: 799px) {
+/*--- Layout ---*/
+.container {
+	width: 720px;
+}
+#logo-image {
+	width: 200px;
+}
+/*#kopa-header-top .container .row > div:last-child {
+    margin-left: 10%;
+    width: 65%;
+  }*/
+#main-menu > li {
+	margin-left: 30px;
+}
+.home-slider-1 .owl-carousel-1 .item .entry-item .entry-content {
+	padding-top: 90px;
+}
+.kopa-event-widget .widget-content .entry-title {
+	font-size: 26px;
+	line-height: 32px;
+}
+.kopa-countdown-2 li div h3 {
+	font-size: 24px;
+}
+.kopa-rounded-thumb-widget .widget-content .entry-item .entry-thumb {
+	width: 275px;
+}
+.kopa-article-list-3-widget .widget-content ul li {
+	padding: 0 10px;
+}
+.kopa-article-list-3-widget .widget-content ul {
+	margin: -20px -10px 0;
+}
+.kopa-masonry-list-1-widget .masonry-container .container-masonry .item.twitter-item i {
+	height: 22px;
+	width: 22px;
+	line-height: 20px;
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+.kopa-masonry-list-1-widget .masonry-container .container-masonry .item .entry-title {
+	padding: 0 20px 10px;
+}
+.widget .widget-title.widget-title-s8 h4 {
+	font-size: 18px;
+	line-height: 24px;
+}
+.nav-tabs.kopa-tabs-1 > li a {
+	padding: 5px 8px;
+}
+.kopa-article-list-5-widget .widget-content ul li .entry-item .entry-thumb {
+	width: 140px;
+	margin-right: 20px;
+}
+.toggle-view li h6 {
+	line-height: 26px;
+	padding: 10px 15px;
+}
+.kopa-owl-3-widget .owl-carousel-3 .item .entry-item .entry-content {
+	padding: 20px;
+}
+.kopa-nothumb-2-widget .widget-content .entry-item .entry-date p,  .kopa-nothumb-2-widget .widget-content .entry-item .entry-date span {
+	padding: 0 10px;
+}
+.kopa-nothumb-2-widget .widget-content .entry-item .entry-date strong {
+	font-size: 24px;
+	padding: 0 10px;
+}
+.kopa-nothumb-2-widget .widget-content .entry-item .entry-date {
+	padding-bottom: 10px;
+}
+.kopa-nothumb-2-widget .widget-content .entry-item .entry-date p {
+	margin-bottom: 5px;
+}
+.kopa-tagline-3-widget .entry-title h2, .kopa-tagline-4-widget .entry-title h2 {
+	font-size: 24px;
+	line-height: 30px;
+}
+.kopa-owl-5-widget .owl-carousel-5 .owl-controls .owl-buttons div.owl-prev {
+	left: -3.4%;
+}
+.kopa-owl-5-widget .owl-carousel-5 .owl-controls .owl-buttons div.owl-next {
+	right: -3.4%;
+}
+.entry-box .entry-box-footer > div .entry-item {
+	min-height: 84px;
+}
+.entry-box .entry-box-footer > div .entry-item .entry-content .entry-title {
+	display: none;
+}
+.entry-box .entry-box-footer > div .entry-item .entry-content a.fa {
+	top: -5px;
+}
+.kopa-article-list-9-widget ul li .entry-item .entry-thumb {
+	width: 90px;
+}
+.table-4col .pricing-column .pricing-column-inner .pricing-footer a.kopa-button {
+	margin-right: 0;
+	display: block;
+	padding: 10px 15px;
+}
+.kopa-professor-list-1-widget .row > div .entry-item .entry-content header .entry-title {
+	font-size: 20px;
+	line-height: 26px;
+}
+.kopa-portfolio-list-2-widget .portfolio-container .portfolio-list-item li.por-item1 .entry-item .entry-content {
+	padding: 20px;
+}
+.kopa-portfolio-list-2-widget .portfolio-container .portfolio-list-item li.por-item1 .entry-item .entry-content .entry-title {
+	font-size: 14px;
+	line-height: 20px;
+}
+.product_column .related.products ul.products li.product {
+	width: 50%;
+}
+.kopa-event-list-4-widget .entry-item {
+	padding: 20px;
+}
+.kopa-event-list-4-widget .entry-item header {
+	margin-bottom: 20px;
+}
+.entry-event-box .row > div.right-col .entry-event-box-footer > div .entry-item,  .entry-course-box .row > div.left-col .entry-course-box-footer > div .entry-item {
+	min-height: 80px;
+}
+.entry-event-box .row > div.right-col .entry-event-box-footer > div .entry-item .entry-content a.fa {
+	left: 10px;
+	width: 20px;
+	height: 20px;
+	line-height: 18px;
+	font-size: 14px;
+	top: 0;
+}
+.entry-event-box .row > div.right-col .entry-event-box-footer > div .entry-item .entry-content {
+	padding-left: 40px;
+}
+.entry-event-box .row > div.right-col .entry-event-box-footer > div.next-article-item .entry-item .entry-content {
+	padding-right: 40px;
+}
+.entry-event-box .row > div.right-col .entry-event-box-footer > div.next-article-item .entry-item .entry-content a.fa {
+	right: 10px;
+}
+.kopa-masonry-list-2-widget .masonry-list-wrapper > ul > li {
+	padding-left: 20px;
+	margin: 20px 0 0;
+}
+.kopa-masonry-list-2-widget .masonry-list-wrapper {
+	margin: -20px 0 0 -22px;
+}
+.kopa-course-tab-list-2-widget .kopa-course-list-2-wrapper .kopa-course-list-2 .row > div .entry-item .entry-title {
+	margin-bottom: 10px;
+}
+.more-link i {
+	display: none;
+}
+.entry-course-box .row > div.left-col > .entry-thumb img {
+	width: 100%;
+}
+.entry-course-box .row > div.right-col .event-speaker ul li .speaker-avatar {
+	width: 55px;
+}
+.entry-course-box .row > div.left-col .entry-course-box-footer > div .entry-item .entry-content a.fa {
+	left: 10px;
+	width: 20px;
+	height: 20px;
+	line-height: 18px;
+	font-size: 14px;
+	top: 0;
+}
+.entry-course-box .row > div.left-col .entry-course-box-footer > div .entry-item .entry-content {
+	padding-left: 40px;
+}
+.entry-course-box .row > div.left-col .entry-course-box-footer > div.next-article-item .entry-item .entry-content {
+	padding-right: 40px;
+}
+.entry-course-box .row > div.left-col .entry-course-box-footer > div.next-article-item .entry-item .entry-content a.fa {
+	right: 10px;
+}
+}
+ @media screen and (max-width: 767px) {
+/*--- Layout ---*/
+body {
+	padding: 0;
+}
+.container {
+	width: 600px;
+}
+#logo-image {
+	width: auto;
+	text-align: center;
+}
+/*
+  #kopa-header-top .container .row > div:first-child {
+    width: 20%;
+  }
+  #kopa-header-top .container .row > div:last-child {
+    width: 70%;
+  }*/
+#main-nav {
+	float: left;
+}
+#main-menu,  .kopa-language,  .kopa-search-box {
+	display: none;
+}
+.main-nav-mobile,  .mobile-search-box {
+	display: block;
+}
+.top-main-nav-mobile {
+	display: inline-block;
+}
+.home-slider-1 .owl-carousel-1 .item .entry-item .entry-content p {
+	display: none;
+}
+.home-slider-1 .owl-carousel-1 .item .entry-item .entry-content .kopa-button {
+	display: none;
+}
+.home-slider-1 .owl-carousel-1 .item .entry-item .entry-content .left-col {
+	border-right: none;
+}
+.home-slider-1 {
+	min-height: 280px;
+}
+.kopa-event-widget .widget-content .entry-title {
+	margin-bottom: 25px;
+	padding-bottom: 15px;
+}
+.kopa-event-widget .widget-content .row > div {
+	margin-bottom: 30px;
+}
+.kopa-event-widget .widget-content .row > div:last-child {
+	margin-bottom: 0px;
+}
+.kopa-course-search-widget .course-form .row > div {
+	margin-bottom: 20px;
+}
+.kopa-course-search-widget .course-form .row > div:last-child {
+	margin-bottom: 0px;
+}
+.kopa-rounded-thumb-widget .widget-content .entry-item .entry-content .entry-title,  .kopa-rounded-thumb-2-widget .widget-content .entry-item .entry-content .entry-title,  .home-slider-2 #sync1 .item .entry-item .entry-content .entry-title h2 {
+	font-size: 30px;
+	line-height: 36px;
+}
+.kopa-area-4 .container .row > div,  .bottom-section .row > div {
+	height: auto !important;
+}
+.kopa-area-4 .row > div:last-child {
+	background-color: transparent;
+}
+.kopa-masonry-list-1-widget .masonry-container .container-masonry .item {
+	width: 50%;
+	height: 25%;
+}
+.kopa-ads-1-widget ul li {
+	width: 33.333333%;
+}
+.bottom-section .kopa-area-10 .kopa-map-1-widget .kopa-map-wrapper {
+	height: 300px;
+}
+.bottom-section .row > div:first-child {
+	padding-left: 30px;
+}
+.bottom-section .kopa-area-10 .kopa-map-1-widget {
+	position: static;
+}
+#bottom-sidebar-s2 > .row > div:first-child::before {
+	left: 100%;
+	top: 0;
+}
+#bottom-sidebar-s2 > .row > div:first-child::after {
+	right: 100%;
+	top: 0;
+	background-color: #191d3d;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	content: "";
+}
+#bottom-sidebar-s2 > .row > div {
+	padding-top: 60px;
+}
+#kopa-page-footer-s2 > .row > div:first-child {
+	background-color: #fff;
+}
+#bottom-sidebar-s2 > .row > div .row > div:last-child {
+	margin-bottom: 0;
+}
+#bottom-sidebar-s2 > .row > div:last-child {
+	padding-top: 30px;
+}
+#copyright {
+	text-align: center;
+}
+.kopa-area-11 .container .row > div,  .kopa-area-13 .container .row > div,  .kopa-area-30 .container .row > div,  .kopa-area-19 .container .row > div,  .kopa-area-31 .container .row > div,  .entry-event-box .row > div {
+	margin-bottom: 30px;
+}
+.kopa-area-11 .container .row > div:last-child,  .kopa-area-13 .container .row > div:last-child,  #bottom-sidebar .container .row > div .row > div:last-child,  .kopa-area-30 .container .row > div:last-child,  .kopa-area-19 .container .row > div:last-child,  .kopa-area-31 .container .row > div:last-child,  .entry-event-box .row > div:last-child {
+	margin-bottom: 0px;
+}
+.widget .widget-title.widget-title-s5 h2 {
+	font-size: 28px;
+	line-height: 34px;
+}
+#bottom-sidebar .container > .row > div {
+	padding: 60px 30px;
+}
+.home-slider-2 #sync2 .owl-item .item h6 {
+	padding: 0 20px;
+	font-size: 16px;
+	line-height: 22px;
+}
+.kopa-nothumb-2-widget .widget-content .row > div,  .kopa-service-1-widget .widget-content .row > div,  .kopa-article-list-6-widget .entry-item.row > div,  .kopa-service-2-widget .widget-content .row > div,  .kopa-tagline-5-widget .row > div,  .kopa-professor-list-1-widget .row > div,  .kopa-professor-list-2-widget .row > div,  .entry-portfolio-box .portfolio-content.row > div,  .kopa-event-list-3-widget .row > div,  .kopa-event-list-4-widget .row > div,  #related-post .row > div {
+	margin-bottom: 30px;
+}
+.kopa-nothumb-2-widget .widget-content .row > div:last-child,  .kopa-service-1-widget .widget-content .row > div:last-child,  .kopa-article-list-6-widget .entry-item.row > div:last-child,  .kopa-service-2-widget .widget-content .row > div:last-child,  .kopa-tagline-5-widget .row > div:last-child,  .kopa-professor-list-1-widget .row > div:last-child,  .kopa-professor-list-2-widget .row > div:last-child,  .entry-portfolio-box .portfolio-content.row > div:last-child,  .kopa-event-list-3-widget .row > div:last-child,  .kopa-event-list-4-widget .row > div:last-child,  #related-post .row > div:last-child {
+	margin-bottom: 0px;
+}
+.kopa-article-list-8-widget ul li .entry-item .entry-thumb {
+	float: left !important;
+	margin: 0 20px 0 0;
+	width: 84px;
+}
+#bottom-sidebar-s2 > .row > div:first-child {
+	padding-left: 30px;
+}
+#related-post .entry-item .entry-content .entry-title {
+	margin-bottom: 10px;
+}
+.page-header .page-header-inner .search-form,  .page-header .page-header-inner .search-form input.search-text {
+	width: 100%;
+}
+.page-header .page-header-inner .page-title span,  .page-header .page-header-inner .page-title i {
+	float: none !important;
+	display: block;
+}
+.page-header .page-header-inner .page-title i {
+	border-left: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+.kopa-portfolio-list-1-widget .portfolio-container .portfolio-list-item li.por-item1 {
+	width: 50%;
+}
+#related-portfolio .owl-carousel-wrapper .owl-carousel-10 .owl-controls .owl-buttons div.owl-prev {
+	left: -3.4%;
+}
+#related-portfolio .owl-carousel-wrapper .owl-carousel-10 .owl-controls .owl-buttons div.owl-next {
+	right: -3.4%;
+}
+.kopa-masonry-list-2-widget .masonry-list-wrapper > ul > li {
+	width: 33.333333%;
+}
+.entry-course-box #comments {
+	margin-top: 30px;
+}
+#top-menu {
+	display: none;
+}
+}
+ @media screen and (max-width: 639px) {
+/*--- Layout ---*/
+.container {
+	width: 440px;
+}
+.home-slider-1 {
+	min-height: 210px;
+}
+.home-slider-1 .owl-carousel-1 .item .entry-item .entry-content h2 {
+	font-size: 26px;
+	line-height: 32px;
+	padding: 0 30px;
+}
+.home-slider-1 .owl-carousel-1 .item .entry-item .entry-content {
+	padding-top: 65px;
+}
+.kopa-event-widget {
+	margin-top: 0;
+	padding-top: 0;
+}
+.kopa-area {
+	padding: 40px 0;
+}
+.kopa-nothumb-widget .widget-content .row > div {
+	margin-bottom: 30px;
+}
+.kopa-nothumb-widget .widget-content .row > div:last-child {
+	margin-bottom: 0px;
+}
+.kopa-rounded-thumb-widget .widget-content .entry-item .entry-thumb,  .kopa-rounded-thumb-2-widget .widget-content .entry-item .entry-thumb {
+	width: 100%;
+	float: none !important;
+	margin: 0 0 30px;
+}
+.kopa-article-list-3-widget .widget-content ul li .entry-item .entry-content .entry-title {
+	margin-bottom: 10px;
+	font-size: 16px;
+	line-height: 22px;
+}
+.widget .widget-title.widget-title-s5 {
+	margin-bottom: 35px;
+}
+.kopa-masonry-list-2-widget .masonry-list-wrapper > ul > li {
+	width: 50%;
+}
+.kopa-area-13 .row {
+	margin-top: 60px;
+}
+.kopa-ads-2-widget ul {
+	margin: -20px -10px 0;
+}
+.kopa-ads-2-widget ul li {
+	margin: 20px 0 0;
+	padding: 0 10px;
+}
+.kopa-rounded-thumb-widget .widget-content .entry-item .entry-content .entry-title,  .kopa-rounded-thumb-2-widget .widget-content .entry-item .entry-content .entry-title,  .home-slider-2 #sync1 .item .entry-item .entry-content .entry-title h2 {
+	font-size: 20px;
+	line-height: 26px;
+	margin-bottom: 0;
+}
+.home-slider-2 #sync1 .item .entry-item .entry-content .kopa-button {
+	display: none;
+}
+.home-slider-2 #sync2 .owl-item .item h6 {
+	font-size: 14px;
+	line-height: 20px;
+	padding: 0 10px;
+	margin-bottom: 5px;
+}
+.kopa-tagline-2-widget .medium-button {
+	margin-bottom: 10px;
+}
+.kopa-owl-5-widget .owl-carousel-5 .owl-controls .owl-buttons div.owl-prev {
+	left: -20px;
+	border-radius: 0;
+}
+.kopa-owl-5-widget .owl-carousel-5 .owl-controls .owl-buttons div.owl-next {
+	right: -20px;
+	border-radius: 0;
+}
+.kopa-owl-5-widget .owl-carousel-5 .owl-controls .owl-buttons div {
+	width: 32px;
+	height: 32px;
+	line-height: 30px;
+	border-radius: 0;
+	font-size: 20px;
+}
+.kopa-blog-list-1-widget .entry-item.gallery-post .entry-thumb .owl-carousel-6 .owl-controls .owl-buttons div {
+	width: 32px;
+	height: 32px;
+	line-height: 30px;
+	margin-top: -16px;
+	font-size: 20px;
+}
+.page-header .page-header-inner {
+	padding: 100px 0;
+}
+.kopa-blog-list-2-widget .entry-item .entry-thumb {
+	float: none;
+	margin: 0 0 30px;
+	width: 100%;
+}
+.entry-box .entry-content .entry-content-header .entry-title h3 {
+	font-size: 24px;
+	line-height: 28px;
+}
+.entry-box .entry-content .entry-content-header {
+	margin-bottom: 30px;
+}
+.entry-box .entry-box-footer > div .entry-item {
+	min-height: 65px;
+}
+.entry-box .entry-box-footer > div .entry-item .entry-content {
+	padding-bottom: 20px;
+}
+.kopa-article-list-6-widget .entry-item .entry-content .entry-title {
+	padding-bottom: 0;
+	margin-bottom: 15px;
+}
+.kopa-ourteam-widget .widget-content ul li .entry-item .entry-thumb {
+	margin-right: 20px;
+}
+#bbpress-forums .bbp-pagination .bbp-pagination-count {
+	margin-bottom: 20px;
+	float: none;
+}
+.kopa-document-widget .masonry-list-wrapper > ul > li {
+	width: 100%;
+}
+.kopa-owl-6-widget .owl-carousel-8 .owl-controls .owl-buttons div {
+	font-size: 20px;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+}
+.kopa-article-list-9-widget ul li .entry-item .entry-thumb {
+	margin: 0;
+	float: none !important;
+	width: 100%;
+}
+.kopa-article-list-9-widget ul li .entry-item .entry-content {
+	padding: 20px;
+}
+.kopa-faq-section .faq-filter ul li a {
+	font-size: 14px;
+	margin: 0 10px;
+}
+.kopa-faq-section .kopa-accordion .panel-group .panel .panel-heading .panel-title a {
+	padding-left: 20px;
+	padding-right: 50px;
+}
+.panel-group .panel .panel-heading > .panel-title a .btn-title {
+	right: 15px;
+}
+.elements-box .element-title h2 {
+	font-size: 30px;
+	line-height: 36px;
+}
+.kopa-404-error .search-box .search-form {
+	width: 100%;
+}
+.entry-professor-box .entry-professor-thumb {
+	margin-bottom: 20px;
+}
+.kopa-course-list-3-widget .kopa-course-list-table .table-header > div {
+	font-size: 14px;
+}
+.kopa-portfolio-list-1-widget .filters-options li {
+	padding: 10px 15px;
+}
+.kopa-portfolio-list-1-widget .filters-options {
+	margin: 0 0 30px;
+}
+.kopa-portfolio-list-2-widget .filters-options-wrapper .filters-options li {
+	padding: 0 10px;
+}
+.kopa-portfolio-list-2-widget .filters-options-wrapper > span {
+	display: none;
+}
+.kopa-portfolio-list-2-widget .portfolio-container .portfolio-list-item li.por-item1 {
+	width: 50% !important;
+}
+.entry-portfolio-box .portfolio-thumb > div .owl-carousel-6 .owl-controls .owl-buttons div {
+	font-size: 20px;
+	margin: -15px 0 0;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+}
+#related-portfolio .owl-carousel-wrapper .owl-carousel-10 .owl-controls .owl-buttons div.owl-prev {
+	left: -20px;
+	border-radius: 0;
+}
+#related-portfolio .owl-carousel-wrapper .owl-carousel-10 .owl-controls .owl-buttons div.owl-next {
+	right: -20px;
+	border-radius: 0;
+}
+#related-portfolio .owl-carousel-wrapper .owl-carousel-10 .owl-controls .owl-buttons div {
+	width: 32px;
+	height: 32px;
+	line-height: 30px;
+	font-size: 20px;
+	margin-top: -16px;
+}
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+	width: 100%;
+}
+.woocommerce div.product div.images, .woocommerce-page div.product div.images {
+	width: 100%;
+	margin-bottom: 30px;
+}
+.woocommerce div.product div.summary, .woocommerce-page div.product div.summary {
+	width: 100%;
+	margin-bottom: 30px;
+	padding-left: 0;
+}
+.product_column .related.products ul.products li.product {
+	width: 100%;
+}
+.kopa-portfolio-list-1-widget .portfolio-container .portfolio-list-item li.por-item1, .kopa-masonry-list-3-widget .masonry-list-wrapper > ul > li {
+	width: 100%;
+}
+.kopa-tab-container-5 .tab-content {
+	padding: 20px;
+	margin-top: 30px;
+}
+.kopa-course-tab-list-1-widget .kopa-course-list-table-wrapper .kopa-course-list-table .table-header > div {
+	font-size: 14px;
+}
+.kopa-event-list-1-widget .row > div {
+	margin-bottom: 30px;
+}
+.kopa-event-list-1-widget .row > div:last-child {
+	margin-bottom: 0px;
+}
+.kopa-event-list-2-widget .entry-item .entry-thumb {
+	float: none;
+	width: 100%;
+	margin: 0 0 20px;
+}
+.kopa-event-list-4-widget .row {
+	background-color: transparent;
+	border-left: none;
+	border-bottom: none;
+}
+.kopa-event-list-4-widget .row > div {
+	background-color: #f2f4f5;
+	border: 1px solid #e2e2e3;
+}
+.kopa-event-list-4-widget .row:first-child {
+	border-top: none;
+}
+.entry-event-box .row > div.left-col .entry-thumb img {
+	width: 100%;
+}
+}
+ @media screen and (max-width: 479px) {
+/*--- Layout ---*/
+/*
+.container {
+  width: 300px; 
+  padding-left: 0;
+  padding-right: 0;
+}
+#logo-image {
+  width: 200px;
+}
+#kopa-header-top {
+  padding: 20px 0;
+}*/
+.top-main-nav-mobile .top-main-menu-mobile {
+	top: 64px;
+}
+.mobile-search-box {
+	width: 200px;
+}
+.home-slider-1 {
+	min-height: 140px;
+}
+.owl-theme .owl-controls .owl-buttons div {
+	font-size: 20px;
+	height: 32px;
+	width: 32px;
+	line-height: 30px;
+	margin-top: -16px;
+}
+.home-slider-1 .owl-carousel-1 .item .entry-item .entry-content h2 {
+	font-size: 18px;
+	line-height: 24px;
+}
+.home-slider-1 .owl-carousel-1 .item .entry-item .entry-content {
+	padding-top: 40px;
+}
+.home-slider-1 .owl-carousel-1 .owl-controls .owl-pagination {
+	bottom: 10px;
+}
+.kopa-event-widget .widget-content .entry-title {
+	font-size: 20px;
+	line-height: 26px;
+}
+.kopa-article-list-3-widget .widget-content ul li {
+	width: 100%;
+}
+.widget .widget-title.widget-title-s4 {
+	font-size: 24px;
+	line-height: 30px;
+}
+.kopa-area-5 .kopa-article-list-3-widget .widget-content ul li {
+	width: 100%;
+}
+.kopa-area-5 .kopa-featured-teacher-widget::before {
+	display: none;
+}
+.kopa-masonry-list-1-widget .masonry-container .container-masonry .item {
+	width: 100%;
+	height: auto;
+}
+.kopa-masonry-list-1-widget .masonry-container .container-masonry .item .entry-title {
+	padding-bottom: 20px;
+}
+.kopa-ads-1-widget ul li {
+	width: 50%;
+}
+#bottom-sidebar-s2 > .row {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+#bottom-sidebar-s2 > .row > div {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.kopa-article-list-4-widget ul li, .kopa-masonry-list-2-widget .masonry-list-wrapper > ul > li {
+	width: 100%;
+}
+.widget .widget-title.widget-title-s2 h4 {
+	font-size: 20px;
+	line-height: 26px;
+}
+.widget .widget-title.widget-title-s2 > div, .widget .widget-title.widget-title-s8 i {
+	display: none;
+}
+.widget .widget-title.widget-title-s2 .see-more {
+	margin-top: 0;
+}
+.kopa-tab-1-widget .kopa-tab-container-1 .nav-tabs.kopa-tabs-1 > li {
+	margin-left: 1px;
+}
+.kopa-tab-1-widget .kopa-tab-container-1 .nav-tabs.kopa-tabs-1 > li > a {
+	padding: 5px;
+}
+.tab-content {
+	padding: 10px 20px 20px;
+}
+.kopa-article-list-5-widget .widget-content ul li .entry-item .entry-thumb {
+	float: none !important;
+	width: 100%;
+	margin: 0 0 20px;
+}
+.widget .widget-title.widget-title-s5 h2 {
+	font-size: 24px;
+	line-height: 30px;
+}
+.kopa-ads-2-widget ul {
+	margin: -10px 0 0;
+}
+.kopa-ads-2-widget ul li {
+	margin: 10px 0 0;
+	padding: 0 5px;
+}
+.home-slider-2 #sync1 .item .entry-item .entry-content .entry-title h2 {
+	font-size: 18px;
+	line-height: 24px;
+	padding: 0 15px;
+}
+.home-slider-2 #sync1 .item .entry-item .entry-content {
+	padding-top: 30px;
+}
+.home-slider-2 #sync2 .owl-item .item h6 {
+	display: none;
+}
+.kopa-course-search-widget p {
+	padding: 0;
+}
+.kopa-service-1-widget .widget-content .row > div .entry-item {
+	padding: 20px;
+}
+.kopa-tagline-1-widget h3 {
+	font-size: 24px;
+	line-height: 30px;
+}
+.kopa-article-list-6-widget .entry-item .entry-content .entry-title::before, .kopa-rounded-thumb-2-widget .widget-content .entry-item .entry-content .entry-title::before {
+	display: none;
+}
+.kopa-ads-3-widget .owl-carousel-4 {
+	margin: 0;
+}
+.kopa-ads-3-widget widget-content {
+	margin: 0 -15px;
+}
+.kopa-owl-5-widget .owl-carousel-5 .owl-controls .owl-buttons div.owl-prev {
+	left: 5px;
+}
+.kopa-owl-5-widget .owl-carousel-5 .owl-controls .owl-buttons div.owl-next {
+	right: 5px;
+}
+.kopa-article-list-7-widget .entry-item .entry-title {
+	font-size: 18px;
+	line-height: 24px;
+	padding: 0 10px 5px;
+}
+.entry-icon span {
+	width: 20px;
+	height: 20px;
+	line-height: 16px;
+	font-size: 12px;
+}
+.entry-icon {
+	padding: 10px 5px;
+}
+.kopa-blog-list-1-widget .entry-item .entry-content {
+	padding: 10px 20px 20px;
+}
+.kopa-blockquote-1 {
+	padding: 15px;
+}
+.kopa-blockquote-1 p {
+	padding: 70px 15px 20px;
+}
+.kopa-blockquote-1 h4, .kopa-blockquote-1 span {
+	padding: 0;
+}
+.pagination ul.page-numbers li a, .pagination ul.page-numbers li span {
+	line-height: 28px;
+	height: 30px;
+	padding: 0 10px;
+}
+#bottom-sidebar-s2 > .row > div:first-child {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#bottom-sidebar-s2 > .row > div {
+	padding-left: 0;
+	padding-right: 0;
+}
+.entry-box .entry-content .entry-content-header > .entry-date {
+	margin-right: 15px;
+}
+.entry-box .entry-content .entry-content-header .entry-title h3 {
+	font-size: 20px;
+	line-height: 26px;
+}
+.entry-box .about-author .author-avatar {
+	width: 80px;
+	margin-right: 20px;
+}
+.entry-box .entry-box-footer > div .entry-item {
+	min-height: 49px;
+}
+.entry-box .entry-box-footer > div .entry-item .entry-content a.prev-post, .entry-box .entry-box-footer > div .entry-item .entry-content a.next-post {
+	display: none;
+}
+.entry-box .entry-box-footer > div .entry-item .entry-content a.fa {
+	position: static;
+}
+.entry-box .entry-box-footer > div .entry-item .entry-content {
+	height: 100%;
+	padding: 10px;
+}
+.entry-box .entry-box-footer > div.next-article-item .entry-item .entry-content {
+	padding: 10px;
+}
+.kopa-testimonial-2-widget .widget-content .owl-carousel-9 .item .entry-item .entry-thumb {
+	float: none !important;
+	width: 100%;
+	margin: 0 0 20px;
+}
+.kopa-testimonial-2-widget .widget-content .owl-carousel-9 .item .entry-item .entry-content header span {
+	font-size: 14px;
+}
+.search-form .search-submit {
+	padding: 10px 20px;
+}
+#bbpress-forums ul.bbp-forums .bbp-forum-info {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#bbpress-forums ul.bbp-forums li.bbp-header li.bbp-forum-info, #bbpress-forums ul.bbp-forums li.bbp-footer li.bbp-forum-info {
+	padding-left: 10px;
+}
+#bbpress-forums ul.bbp-forums li.bbp-header .forum-titles .bbp-forum-info, #bbpress-forums ul.bbp-forums li.bbp-body tbody .forum td.bbp-forum-info {
+	width: 45%;
+}
+#bbpress-forums ul.bbp-forums li.bbp-header .forum-titles .bbp-forum-topic-count, #bbpress-forums ul.bbp-forums li.bbp-header .forum-titles .bbp-forum-reply-count, #bbpress-forums ul.bbp-forums li.bbp-body tbody .forum td.bbp-forum-topic-count, #bbpress-forums ul.bbp-forums li.bbp-body tbody .forum td.bbp-forum-reply-count {
+	width: 15%;
+}
+#bbpress-forums ul.bbp-forums .forum > td {
+	padding: 15px 10px;
+}
+.kopa-login-widget {
+	padding: 15px;
+}
+.kopa-owl-6-widget .owl-carousel-8 .item .entry-item .entry-title {
+	font-size: 16px;
+	line-height: 22px;
+	padding-right: 60px;
+}
+.kopa-article-list-9-widget ul li, .kopa-article-list-10-widget .widget-content ul li {
+	width: 100%;
+}
+.kopa-faq-section .faq-filter .filter-label {
+	display: none;
+}
+.kopa-faq-section .faq-filter ul {
+	margin-left: -10px;
+}
+.kopa-faq-section .faq-filter ul li a::before {
+	display: none;
+}
+.table-4col-s1 .pricing-column {
+	margin-bottom: 20px;
+}
+.table-4col-s1 .pricing-column:last-child {
+	margin-bottom: 0px;
+}
+.table-5col .pricing-column .pricing-footer .kopa-button {
+	padding: 5px 15px;
+}
+.kopa-breadcrumb .pull-left span {
+	font-size: 16px;
+}
+.kopa-breadcrumb .pull-right {
+	font-size: 13px;
+}
+.kopa-course-list-3-widget .kopa-course-list-table .table-header > div, .kopa-course-list-3-widget .kopa-course-list-table .table-list li > div, .kopa-course-tab-list-1-widget .kopa-course-list-table-wrapper .kopa-course-list-table .table-header > div, .kopa-course-tab-list-1-widget .kopa-course-list-table-wrapper .kopa-course-list-table .table-list li > div {
+	padding: 5px 10px;
+}
+.kopa-course-list-3-widget .kopa-course-list-table .table-header > div.name-col, .kopa-course-list-3-widget .kopa-course-list-table .table-list li > div.name-col, .kopa-course-tab-list-1-widget .kopa-course-list-table-wrapper .kopa-course-list-table .table-header > div.name-col, .kopa-course-tab-list-1-widget .kopa-course-list-table-wrapper .kopa-course-list-table .table-list li > div.name-col {
+	width: 40%;
+}
+.kopa-course-list-3-widget .kopa-course-list-table .table-header > div.stt-col, .kopa-course-list-3-widget .kopa-course-list-table .table-list li > div.stt-col, .kopa-course-tab-list-1-widget .kopa-course-list-table-wrapper .kopa-course-list-table .table-header > div.stt-col, .kopa-course-tab-list-1-widget .kopa-course-list-table-wrapper .kopa-course-list-table .table-list li > div.stt-col {
+	width: 16%;
+}
+.kopa-course-list-3-widget .kopa-course-list-table .table-header > div.duration-col, .kopa-course-list-3-widget .kopa-course-list-table .table-list li > div.duration-col, .kopa-course-tab-list-1-widget .kopa-course-list-table-wrapper .kopa-course-list-table .table-header > div.duration-col, .kopa-course-tab-list-1-widget .kopa-course-list-table-wrapper .kopa-course-list-table .table-list li > div.duration-col {
+	width: 20%;
+}
+.kopa-course-list-3-widget .kopa-course-list-table .table-header > div.date-col, .kopa-course-list-3-widget .kopa-course-list-table .table-list li > div.date-col, .kopa-course-tab-list-1-widget .kopa-course-list-table-wrapper .kopa-course-list-table .table-header > div.date-col, .kopa-course-tab-list-1-widget .kopa-course-list-table-wrapper .kopa-course-list-table .table-list li > div.date-col {
+	width: 24%;
+}
+.kopa-portfolio-list-1-widget .portfolio-container .portfolio-list-item li.por-item1 .entry-item .entry-content {
+	padding: 20px;
+}
+.kopa-portfolio-list-2-widget .filters-options-wrapper .filters-options li.active span::before, .kopa-portfolio-list-2-widget .filters-options-wrapper .filters-options li:hover span::before {
+	display: none;
+}
+.kopa-portfolio-list-2-widget .portfolio-container .portfolio-list-item li.por-item1 {
+	width: 100% !important;
+}
+#related-portfolio .owl-carousel-wrapper .owl-carousel-10 .owl-controls .owl-buttons div.owl-prev {
+	left: 5px;
+}
+#related-portfolio .owl-carousel-wrapper .owl-carousel-10 .owl-controls .owl-buttons div.owl-next {
+	right: 5px;
+}
+.woocommerce .woocommerce-result-count, .woocommerce-page .woocommerce-result-count {
+	margin-bottom: 10px;
+}
+.woocommerce .woocommerce-ordering, .woocommerce-page .woocommerce-ordering {
+	float: left;
+}
+.woocommerce div.product .kopa-tab-container-1 .tab-content, .woocommerce-page div.product .kopa-tab-container-1 .tab-content {
+	padding: 20px 20px 0;
+}
+#comments .comments-list .comment .comment-wrap .comment-body footer > div h6, #comments .comments-list > li .comment-wrap .comment-body footer > div h6 {
+	padding-left: 0;
+	margin-bottom: 10px;
+}
+#comments .comments-list .comment .comment-wrap .comment-body footer > div .entry-date, #comments .comments-list > li .comment-wrap .comment-body footer > div .entry-date {
+	margin-bottom: 10px;
+}
+.kopa-course-tab-list-1-widget .tab-pane .pagination {
+	position: static;
+	margin-bottom: 10px;
+}
+.kopa-tab-container-5 .tab-content {
+	padding: 0;
+	border: none;
+}
+.kopa-course-tab-list-3-widget .kopa-course-list-3-wrapper header h5 {
+	margin-bottom: 20px;
+}
+.entry-course-box .row > div.left-col .about-author .author-avatar, .entry-event-box .row > div.right-col .about-author .author-avatar {
+	width: 80px;
+	margin-right: 20px;
+}
+.entry-event-box .row > div.right-col .entry-event-box-footer > div .entry-item, .entry-course-box .row > div.left-col .entry-course-box-footer > div .entry-item {
+	min-height: 70px;
+}
+.entry-course-box .row > div.left-col .entry-course-box-footer > div .entry-item .entry-content a.prev-post, .entry-course-box .row > div.left-col .entry-course-box-footer > div .entry-item .entry-content a.next-post, .entry-event-box .row > div.right-col .entry-event-box-footer > div .entry-item .entry-content a.prev-post, .entry-event-box .row > div.right-col .entry-event-box-footer > div .entry-item .entry-content a.next-post {
+	display: none;
+}
+.entry-course-box .row > div.left-col .entry-course-box-footer > div .entry-item .entry-content a.fa, .entry-event-box .row > div.right-col .entry-event-box-footer > div .entry-item .entry-content a.fa {
+	position: static;
+	margin-top: 17px;
+}
+.entry-course-box .row > div.left-col .entry-course-box-footer > div .entry-item .entry-content, .entry-event-box .row > div.right-col .entry-event-box-footer > div .entry-item .entry-content {
+	padding: 10px !important;
+	height: 100%;
+}
+.kopa-event-list-2-widget .entry-item .entry-thumb .entry-date {
+	left: 10px;
+	top: 10px;
+}
+.kopa-event-list-3-widget .row > div .entry-item .entry-thumb {
+	width: 100%;
+	margin: 0 0 20px;
+	float: none;
+}
+.entry-event-box .row > div.right-col .event-speaker ul li .speaker-avatar {
+	float: none !important;
+	width: 100%;
+	margin: 0 0 20px;
+}
+}
