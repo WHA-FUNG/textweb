@@ -77,14 +77,13 @@
                             </ul>
                         </li><li class="Lev1 "> <a href="/" class="menu1">提交留学意向表
                         </a>
-                            <ul class="dr-menu sub-menu2">
-
-                            </ul>
+                            <ul class="dr-menu sub-menu2"></ul>
                         </li>
                         </ul>
+                    </nav>
                 </div>
             </nav>
-            </div>
         </div>
     </div>
+</div>
 </div>
