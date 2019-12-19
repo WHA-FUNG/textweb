@@ -100,7 +100,7 @@
                         <div id="portfolio-container">
                             <div class="row portfolio-3-columns isotope-x clearfix">
                                 <div class="portfolio-item isotope-item col-sm-4 col-xs-6">
-                                    <article>
+
                                         <a href="/uk/" class="country_head" target="_blank">
                                             <div class="us_w">
                                                 <img src="https://staticresource.liuxue315.cn/images/country_15.png">
@@ -142,7 +142,7 @@
                                         </figure>
 
                                         <div class="flex separator"> <span class="line"></span> <span class="wrap"><span class="square"></span></span> </div>
-                                    </article>
+                                    
                                 </div><div class="portfolio-item isotope-item col-sm-4 col-xs-6">
 
                             </div>

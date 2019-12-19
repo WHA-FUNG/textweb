@@ -57,11 +57,11 @@
                                 <li class="Lev2"> <a href="/pulinsidun.jsp" class="menu2">院校详情</a> </li>
 
                             </ul>
-                        </li><li class="Lev1 "> <a href="/" class="menu1">留学国家
+                        </li><li class="Lev1 "> <a class="menu1">留学国家
                             <i class="fa fa-caret-down"></i> </a>
                             <ul class="dr-menu sub-menu2">
 
-                                <li class="Lev2"> <a href="/" class="menu2">留学国家列表</a> </li>
+                                <li class="Lev2"> <a href="/liuxueguojialist.jsp" class="menu2">留学国家列表</a> </li>
 
                                 <li class="Lev2"> <a href="/" class="menu2">留学国家详情</a> </li>
 
