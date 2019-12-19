@@ -142,7 +142,7 @@
                                         </figure>
 
                                         <div class="flex separator"> <span class="line"></span> <span class="wrap"><span class="square"></span></span> </div>
-                                    
+
                                 </div><div class="portfolio-item isotope-item col-sm-4 col-xs-6">
 
                             </div>
