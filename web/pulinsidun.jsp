@@ -92,7 +92,7 @@
             <div class="col-lg-12 bottom-banner-gate">
                 <div class="row">
                     <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4 intro-gate">
-                        <img src = "uploads/univ/01 Princeton University.jpg" tppabs="http://www.compassedu.hk/upload/univ/01 Princeton University.jpg" class="img-responsive img-intro-gate" alt="">
+                        <img src = "upload/univ/01 Princeton University.jpg" tppabs="http://www.compassedu.hk/upload/univ/01 Princeton University.jpg" class="img-responsive img-intro-gate" alt="">
                     </div>
 
                     <div class="col-lg-10 col-md-9 col-sm-8 hidden-xs name-banner-gate">

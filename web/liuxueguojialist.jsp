@@ -101,36 +101,20 @@
                             <div class="row portfolio-3-columns isotope-x clearfix">
                                 <div class="portfolio-item isotope-item col-sm-4 col-xs-6">
 
-                                        <a href="/uk/" class="country_head" target="_blank">
-                                            <div class="us_w">
-                                                <img src="https://staticresource.liuxue315.cn/images/country_15.png">
-                                            </div>
-                                            <h4>英国留学</h4>
-                                        </a>
+                                    <a href="/uk/" class="country_head" target="_blank">
+                                        <div class="us_w">
+                                            <img src="https://staticresource.liuxue315.cn/images/country_15.png">
+                                        </div>
+                                        <h4>英国留学</h4>
+                                    </a>
                                         <ul class="stu_nav">
-                                            <li>
-                                                <a href="/uk/visa/" target="_blank" title="英国留学签证">签证</a>
-                                            </li>
-                                            <li>/</li>
-                                            <li>
-                                                <a href="/uk/cost/" target="_blank" title="英国留学费用">费用</a>
-                                            </li>
-                                            <li>/</li>
-                                            <li>
-                                                <a href="/uk/guide/" target="_blank" title="英国留学申请指南">申请指南</a>
-                                            </li>
-                                            <li>/</li>
-                                            <li>
-                                                <a href="/uk/tiaojian/" target="_blank" title="英国留学须知">须知</a>
-                                            </li>
-                                            <li>/</li>
-                                            <li>
-                                                <a href="/uk/college/" target="_blank" title="英国留学院校专业">院校专业</a>
-                                            </li>
-                                            <li>/</li>
-                                            <li>
+
+                                                <a href="/uk/visa/" target="_blank" title="英国留学签证">签证/</a>
+                                                <a href="/uk/cost/" target="_blank" title="英国留学费用">费用/</a>
+                                                <a href="/uk/guide/" target="_blank" title="英国留学申请指南">申请指南/</a>
+                                                <a href="/uk/tiaojian/" target="_blank" title="英国留学须知">须知/</a>
+                                                <a href="/uk/college/" target="_blank" title="英国留学院校专业">院校专业/</a>
                                                 <a href="/uk/news/" target="_blank" title="英国留学新闻">新闻</a>
-                                            </li>
                                         </ul>
                                         <figure class="glass-animation"> <a class="swipebox" href="https://staticresource.liuxue315.cn/image/201912171576552242193432781.jpg">
 
@@ -148,7 +132,7 @@
                             </div>
 
                             </div>
-                            <div id="pages" class="page"><span class="pageinfo">共 <strong>1</strong>页<strong>4</strong>条记录</span>
+                            <div id="pages" class="page"><span class="pageinfo">共 <strong>1</strong>页<strong>1</strong>条记录</span>
 
                             </div>
                         </div>
