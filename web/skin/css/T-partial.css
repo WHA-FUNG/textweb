@@ -91,7 +91,7 @@ ol li a:hover{text-decoration: underline;}
 .banner_s .swiper-pagination{position: absolute; bottom: 10px; margin-left: 140px;}
 .banner_s .swiper-pagination span{margin-right: 15px;}
 /*留学内容*/
-.T-l-left{width: 755px; float: left;}
+.T-l-left{width:fit-content; padding-left: 2px;padding-right: 2px;margin:auto}
 .T-l-right{width: 335px; float: right;}
 .T-imgbrief li{float: left; width: 246px; margin-right: 5px;}
 .T-imgbrief li img{width: 246px; height: 126px;}
